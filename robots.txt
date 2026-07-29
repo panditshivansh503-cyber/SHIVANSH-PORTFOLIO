@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shivansh-portfolio-tau.vercel.app/sitemap.xml
